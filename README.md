@@ -8,6 +8,6 @@ A way to get Traffic Restriction of some cities.
 // add service in StartUp
 services.AddTrafficRestrictionService( o => o.UseCache = true);
 
-// then reject and call ITrafficRestrictionService
+// then reject and call ITrafficRestrictionServicecd 
 
 ```
